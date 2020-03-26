@@ -8,6 +8,8 @@ public class StringPractice {
         System.out.println(str);
         String str1 = "Java is important";
         System.out.println(str1);
+        String str2 = "Selenium is more interesting than Java:)";
+        System.out.println(str2);
     }
 }
 
