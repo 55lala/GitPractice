@@ -6,5 +6,7 @@ public class LoopPractice {
         System.out.println(str);
         String str1 ="Selenium";
         System.out.println(str1);
+        String  str2 = "smart";
+        System.out.println(str2);
     }
 }
